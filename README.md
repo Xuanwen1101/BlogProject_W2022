@@ -1,4 +1,4 @@
-# BlogProject_1
+# BlogProject
 This is the first iteration of our blog project, which has a proof-of-concept to access our MySQL Database.
 
 [Video which goes over codebase](https://youtu.be/uP2kH8tFXIQ)
